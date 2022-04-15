@@ -1,9 +1,10 @@
 /*
- * funciones2.c
+ * funcionesOperaciones.c
  *
- *  Created on: 9 abr. 2022
+ *  Created on: 15 abr. 2022
  *      Author: Bushi
  */
+
 
 int descuento(int a, int b){
 	int x,descuento;
@@ -28,7 +29,7 @@ float BTC(int a){
 
 float precioKmUnitario(int a,int b){
 	float Km;
-	Km = a/b;
+	Km = (float)a/b;
 	return Km;
 }
 

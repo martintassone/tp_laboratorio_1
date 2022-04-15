@@ -1,7 +1,7 @@
 /*
- * funciones2.h
+ * funcionesOperaciones.h
  *
- *  Created on: 9 abr. 2022
+ *  Created on: 15 abr. 2022
  *      Author: Bushi
  */
 
